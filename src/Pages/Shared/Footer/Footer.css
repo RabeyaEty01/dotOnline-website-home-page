@@ -1,0 +1,22 @@
+.footer-section{
+    background-color: #55597E;
+}
+
+.dot-img{
+  background: url(../../../images//dot\ \(2\).png);
+  background-repeat: no-repeat;
+}
+.footer-text h1{
+  font-size: 60px;
+  font-family: 'Jost';
+  font-family: 400;
+  color: white;
+}
+.footer-list h6{
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.copyright-footer{
+    background-color: #7F82A0;
+}

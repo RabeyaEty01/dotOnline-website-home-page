@@ -1,0 +1,14 @@
+.clients-trust h1{
+  font-size: 40px;
+  font-family: 'Jost';
+  font-weight: 700;
+  color: #444444;
+}
+
+.clients-trust{
+    
+    height: auto;
+    background-image: url(../../../images/Ellipse\ 143.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}

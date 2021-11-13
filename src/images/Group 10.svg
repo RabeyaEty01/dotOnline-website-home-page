@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 104 110" width="104" height="110">
+	<title>Group 10 (2) (1)</title>
+	<defs>
+		<image  width="104" height="109" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAABtCAMAAAB6D9QgAAAAAXNSR0IB2cksfwAAAHtQTFRFAAAAhxgYhxgYgBAQiRgaiRcbiBgaiBgahxgYiBgaiRkaiRgYiRkahxgahxcbiBgZhRUViBgZhxgZiRYWhxgbiRcZhhcZiRcahxcahxcZiRkZihUbhhYZiBcaiRcZiRgbgBAgihcZiBkbiRkZhhcbhRUbhxkaiRkbjBkZ+W1iggAAACl0Uk5TAEBgEH/v/58g3+9fr4DPvzDfoFBgcHDvz5BwMFCvr18Qb5CPcDDPjx9udd2dAAAClklEQVR4nO2a63LbIBCFwVIQVqIocty6jZ17mvb9n7AyC7K4GVC0yniG88cMDHyWOCwLNiFCdIUlWpBBRXnFEFVxyeFrTEyv+noZTi9BusHnsLqfKLoAh7GGkGoRUE3ILZTaCkdqYu4IfHYESxsA3EtQiwZqALD9DlBB5xZ3g+Y3epNBGZRBGZRBkap+bBYBHQf5uQCoFpluIMOdA1SRhUAinw71mAEEOUYoJ0wH7VqjYnXk8GOp+zUj6Hc/aDeugDRw25ceznkvFdRY8wFWWMvC3ueJRJDgwHtSElY4DG0+UhoIxhLvSQms8NiXnqBx33m7RoMkRzuunazAStnsJKWAtg5ON/b2OVICSHL0SWiUFUKkeJCTA1Y4zZmfFAvaURiC6hzw9mgJe0mRoN0eBng26qnldkUyg0QcyMfRrKA9JHkxSHGgA3R+NTjgbWJcTiiS/pKjQDV0LU2OaQWd9DYZZEUXGPHWBMl1XVmV4Vd37SYJK1gGdcWPaNcpkmODMHc8Nyd6HT041scozAU58ZHBXomQ/BhWcMXDNJBNGnY8m+PYlBKCqklyJD9+TtI2oZPs5McTD9NBOsm2gidOTQCxd/mVmfL2x6ixOsdJTU5gsD/MZQVYAVY8nAaC8Y+WHpKfQWLS7Hg4EcQ+OTlcKSvoSWvJi7/eflNzb2dUOKeJIHeYQwA1lhWQQNQR5lBA97YVcECfhX/FzApi66ek57m4C40MyqAMyqCLBOEogzLIBsG5pubhLpNUyF/l6XBj0OFInc+4ejRkddb1DZJWp9lCFZwPgj8DfZ3DNQeiqR0szTfue+s5tGtXut85kpDW5wWp9P3xpwj3TZL3ZPQvgzIog4J6aYW82yM0b78Oirs2azIID/QfqA3Xf2TsDvkAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+</svg>

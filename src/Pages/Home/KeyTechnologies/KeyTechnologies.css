@@ -1,0 +1,23 @@
+.lorem-text{
+    font-size: 20px;
+}
+.btn-1 {
+    float: left;
+}
+.tech-right-div h6{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Jost';
+    color: #444444;
+}
+.key-tech-section{
+    height: auto;
+    background-image: url(../../../images/Ellipse\ 141.png);
+    background-repeat: no-repeat;
+    background-position: start;
+    margin-top: -5%;
+}
+.dot-img-2{
+    float: left;
+    margin-bottom: -7%;
+}

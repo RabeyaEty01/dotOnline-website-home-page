@@ -1,0 +1,83 @@
+
+.join-us-card{
+   border-radius: 10px;
+   width: 597px;
+   Height :497px;
+  
+}
+.join-us-text h5{
+    font-family: 'Jost';
+    font-size: 70px;
+    color: #444444;
+    font-weight: bold;
+    padding: 50px 50px 0px 50px;
+    
+}
+.join-us-text p{
+    font-size: 30px;
+    font-weight: 400px;
+    padding-left: 50px;
+}
+
+.span-text{
+    font-size: 16px;
+    font-weight: 400px;
+    background-color:#C6DFF3;
+    border-radius: 4px;
+    float: left;
+}
+
+  /* Mobile devices */
+  @media only screen and (max-width:688px) {
+    
+.join-us-card{
+    border-radius: 10px;
+    width:100%;
+    Height :100%;
+   
+ }
+ 
+.join-us-text h5{
+    font-family: 'Jost';
+    font-size: 35px;
+    color: #444444;
+    font-weight: bold;
+    padding: 5px 5px 0px 5px;
+    
+    
+}
+.join-us-text p{
+    font-size: 25px;
+    font-weight: 400px;
+    padding-left: 5px;
+}
+
+}
+/* tablet devices */
+
+@media only screen and (min-width:688px)and (max-width:992px) {
+   
+.join-us-card{
+    border-radius: 10px;
+    width:100%;
+    Height :100%;
+   
+ }
+ 
+.join-us-text h5{
+    font-family: 'Jost';
+    font-size: 35px;
+    color: #444444;
+    font-weight: bold;
+    padding: 5px 5px 0px 5px;
+    
+    
+}
+.join-us-text p{
+    font-size: 25px;
+    font-weight: 400px;
+    padding-left: 5px;
+}
+
+  
+}
